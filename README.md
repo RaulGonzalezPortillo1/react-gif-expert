@@ -1,8 +1,15 @@
-# React + Vite
+# GifExpertApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React application fetches GIFs from Giphy and displays them in a Grid.
 
-Currently, two official plugins are available:
+Part of the exercises made for the "React - De Cero a Experto" course by Fernando Herrera: https://github.com/RaulGonzalezPortillo1/udemy-courses/tree/main/React%20-%20De%20cero%20a%20experto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to run
+
+Install the required node modules then run the dev script.
+
+```
+npm install
+
+npm run dev
+```
